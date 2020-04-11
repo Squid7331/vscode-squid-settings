@@ -1,7 +1,8 @@
 {
     "editor.fontFamily": "Operator Mono Lig, Consolas, 'Courier New', monospace",
-    "editor.fontWeight": "200",
-    "vscode_custom_css.imports": ["file:///C:/Users/Julien/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.9/synthwave-x-fluoromachine.css"],
+    "editor.fontWeight": "100",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\system32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": ["/K", "D:\\Logiciels\\Cmder\\vscode.bat"],
     "workbench.iconTheme": "vscode-icons",
     "workbench.colorTheme": "Material Theme Ocean",
     "workbench.colorCustomizations": {
@@ -28,5 +29,7 @@
         "editor.findMatchBorder": "#C6FF00",
         "selection.background": "#C6FF0040"
     },
-    "materialTheme.accent": "Acid Lime"
+    "materialTheme.accent": "Acid Lime",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }
